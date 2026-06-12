@@ -1,2 +1,3 @@
-# git1-demo
-this is my first git repository
+# git1-demo 
+This is my first Git Repository
+Author - Saurav 
